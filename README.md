@@ -28,11 +28,3 @@ Map Mark API is your gateway to a world of personalized map bookmarking. This No
 5. Begin the enchantment with `npm start`.
 
 Discover the secrets of Map Mark API, chart your mystical journey, and bookmark the wonders of the world.
-
-## Be a Part of the Guild 🪙
-
-We invite fellow wizards to join our guild. Share your mystical insights, suggest new incantations, or weave your own spells to enhance Map Mark API.
-
-## License
-
-This project is enchanted under the [MIT License](LICENSE).
